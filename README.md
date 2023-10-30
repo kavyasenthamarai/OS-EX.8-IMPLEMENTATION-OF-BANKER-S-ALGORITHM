@@ -31,6 +31,11 @@ To implement the bankers Algorithm
 * Loop through the processes in the ans array and print them as the safe sequence, separated by " -> ".
 * Print the last process in the sequence.
 ## PROGRAM:
+# Developed by:
+```
+name:kavya k
+reg no:212222230065
+```
 ```
 n = 5
 m = 3
